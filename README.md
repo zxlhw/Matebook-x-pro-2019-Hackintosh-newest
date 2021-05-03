@@ -193,33 +193,6 @@ ComboJack_Installer/install.sh
 
   
   
-<details>  
-<summary>开启HIDPI</summary>  
-  
-⚠️注意：  
-根据你的系统版本去下载（获得）开启hidpi的脚本哈   
-
-BigSur：[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
-Catalina：https://github.com/xzhih/one-key-hidpi  
-对于Catalina用户：你需要对EFI/OC/config.plist进行更改，具体是使用propertree打开后找到：NVRAM/add/7C436110..../csr-active-config的值改为E7030000，然后reset nvram后才可以进行接下去的步骤  
-
-
-我说下我的选择：  
-第一步选择 开启HiDPi（注入EDID）  
-第二步选择 保持原样  
-第三步选择 手动输入分辨率  
-分辨率输入的是 1600x1066 1343x895 2160x1440  
-
-- 最后说一句，开启了hidpi之后，在设置→显示器里不要让分辨率超过1343x895，最大只能到这个，因为超过这个会引发一些唤醒后屏幕显示的问题（比如唤醒后屏幕只显示到四分之三），而且不要觉得这个分辨率小，因为这个是hipdi分辨率，跟你理解的分辨率不一样，1343×895实际上等于你理解的一般分辨率的2686×1790，是超过2k的，如下图所示  
-
-*注意⚠️你的1343x895这个分辨率的设置位置不一定是在【更大空间】  
-
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/HIDPI.png?raw=true)  
-
-*注意⚠️你的1343x895这个分辨率的设置位置不一定是在【更大空间】
-
-</details> 
-
   
   
 <details>  

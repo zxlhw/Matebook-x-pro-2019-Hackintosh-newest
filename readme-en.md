@@ -18,6 +18,7 @@ Sister project:
 
 
 
+[![Download](https://img.shields.io/badge/OpenCore%20EFI%files-download-blue)](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/releases)  
 
 **If you Star my repo (click star⭐️ at upper right of this page), I will so happy.**  
 

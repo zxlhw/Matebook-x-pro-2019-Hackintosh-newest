@@ -2,7 +2,7 @@
 
   
 readme in other language：  
-[中文🇨🇳](README.md) | [English🇬🇧](readme-en.md)   
+[中文🇨🇳](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest) | [English🇬🇧](readme-en.md)   
      
 
 **在华为的MateBook系列笔记本上做到基本完美的稳定运行MacOS**     

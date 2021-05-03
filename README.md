@@ -370,6 +370,11 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
 用于构建更好的efi
 
+## 协议：  
+本repo采用MIT License，允许个人使用为目的的更改，但是如果你根据本项目的任何文件制作并公开了其他发行版，需提前联系并取得我的同意，本repo的任何文件禁止任何商业目的以以获取利润为目的的使用，本人拥有以采取法律行动进行维权的一切权利。  
+
+
+
 ## 感谢：
 
 - [@intel](https://www.intel.com/content/www/us/en/homepage.html) 感谢10年一管牙膏（AMD,YES!）

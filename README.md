@@ -110,7 +110,7 @@ oc版本为0.6.5，efi不区分Catalina和BigSur
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
 
-[![Download](https://img.shields.io/badge/OpenCore%20EFI下载-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+[![Download](https://img.shields.io/badge/OpenCore%20EFI-下载-blue)](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/releases)  
 
 镜像下载链接：https://blog.daliansky.net/  
 

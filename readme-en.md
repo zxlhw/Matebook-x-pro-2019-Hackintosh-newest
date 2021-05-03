@@ -286,7 +286,7 @@ Please donate with paypal
  
 - [@zxystd](https://github.com/OpenIntelWireless/itlwm) created kexts of wifi and bluetooth  
 
-- [@cnpog](https://github.com/cnpog/Matebook-X-Pro-2019) rebuild from this guy,solved some problem he mentioned,and think him so much for his great job  
+- [@cnpog](https://github.com/cnpog/Matebook-X-Pro-2019) rebuild from this guy,solved some problem he mentioned,and thanks him so much for his great job  
 
 - [@Zero-zer0](https://github.com/Zero-zer0) learned how to fix brightness key from him
 

@@ -384,7 +384,5 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 - [@cnpog](https://github.com/cnpog/Matebook-X-Pro-2019) 修改自这个项目，他列举的问题都解决了 
 
-- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh) 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
-
 - [@Zero-zer0](https://github.com/Zero-zer0) 参考了他的热键修复方法 十分感谢
 

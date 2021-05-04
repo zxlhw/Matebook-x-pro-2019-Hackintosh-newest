@@ -245,7 +245,9 @@ then crtl and w to save the change
 
 You should use that usb stick to boot again for check the change is saved  
 
-  
+At last,dont forget to remove these three properties which are named “framebuffer-fbmem” “framebuffer-stolenmem” “framebuffer-unifiedmem” in framebuffer part of config.plist with [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip).  
+
+
 [the inspiration of this guide from @laozhiang](https://github.com/laozhiang)  
   
 

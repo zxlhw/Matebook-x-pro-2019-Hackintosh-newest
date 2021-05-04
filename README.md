@@ -268,7 +268,7 @@ https://zhuanlan.zhihu.com/p/121655468
 
 修改完成后可以再用那个u盘引导启动一次，查看是否修改成功  
 
-
+最后记得用propertree去修改一下config，移除里面缓冲帧的“framebuffer-fbmem”，“framebuffer-stolenmem”，“framebuffer-unifiedmem”这三个条目。  
   
   
 [本教程灵感来源@laozhiang](https://github.com/laozhiang)  

@@ -79,7 +79,7 @@ OpenCore's version is in 0.6.5,works with both Catalina and BigSur
 
 2. DGPU  
 
-  
+3. battery icon  
 
 
 ## About installation

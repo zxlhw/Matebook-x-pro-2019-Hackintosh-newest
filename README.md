@@ -23,6 +23,8 @@ readme in other language：
 
 如果你遇到了什么问题（与安装无关的），有可能在这里找到答案：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
+我没有这个设备，有些小伙伴帮我测试了这个，如果你遇到了什么问题欢迎留下issue  
+
 **请在这个网页的最右上角帮我点颗小星星⭐️哟**  
 
 ## 更新日志（⚠️一定先看这个）  

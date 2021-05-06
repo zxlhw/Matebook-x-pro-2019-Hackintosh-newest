@@ -22,7 +22,7 @@ Sister project:
 
 **If you Star my repo (click star⭐️ at upper right of this page), I will so happy.**  
 
-I dont have this device,and other guys tested it for me,if you got any problem please leave me a issue here.
+I dont have this device,and other guys tested it for me,if you got any problem,feel free to leave me a issue here.
 
 A telegram group in ：https://t.me/hackintosh_matebook13  
 

@@ -36,7 +36,7 @@ A telegram group in ：https://t.me/hackintosh_matebook13
 
 
 - 20210508:  
-changed some volumn in csr-bootargs and framebuffer，try to optimize drm and sidecar.   
+changed some volumn in boot-args and framebuffer，try to optimize drm and sidecar.   
 
 
 - 20210426:  

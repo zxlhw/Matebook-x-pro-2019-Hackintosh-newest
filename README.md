@@ -32,6 +32,8 @@ readme in other language：
 <summary>点击以查看详细信息</summary>  
   
 
+- 20210508:  
+oc版本为0.6.5，微调缓冲帧以及csr-bootargs，尝试优化drm以及sidecar问题。    
 
 - 20210503:  
 oc版本为0.6.5，efi不区分Catalina和BigSur   

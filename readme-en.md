@@ -34,6 +34,11 @@ A telegram group in ：https://t.me/hackintosh_matebook13
 <details>  
 <summary>click for details</summary>  
 
+
+- 20210508:  
+changed some volumn in csr-bootargs and framebuffer，try to optimize drm and sidecar.   
+
+
 - 20210426:  
 OpenCore's version is in 0.6.5,works with both Catalina and BigSur  
 

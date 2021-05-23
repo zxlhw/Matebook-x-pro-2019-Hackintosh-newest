@@ -114,6 +114,16 @@ oc版本为0.6.5，efi不区分Catalina和BigSur
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
 
+<details>  
+<summary>⚠️事前准备2：安装前先定制三码（点击查看详情）</summary>  
+因为很多人都不替换自己的三码就用，所以导致苹果账号服务受限的情况比比皆是，因此，我把config设置为“如果不改三码就用，那直接无法启动”  
+具体修改三码的教程自己百度，自己编辑config。（p.s.其实应该四码，包含：SSN，MLB，ROM，UUID） 
+  
+windows下编辑config的工具：[ProperTree-windows.zip](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree-windows.zip)  
+  
+  
+</details>  
+
 [![Download](https://img.shields.io/badge/OpenCore%20EFI-下载-blue)](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/releases)  
 
 镜像下载链接：https://blog.daliansky.net/  

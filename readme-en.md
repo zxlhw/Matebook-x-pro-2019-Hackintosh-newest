@@ -20,6 +20,27 @@ Sister project:
 
 [![Download](https://img.shields.io/badge/OpenCore%20EFI%20files-download-blue)](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/releases)  
 
+<details>  
+<summary>About booting MacOS 12 Monterey</summary>  
+
+【Yes,we can boot it.】  
+
+Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
+
+Just edit config.plist,to add "-lilubetaall" at boot-args and disable "airportitlwm" and that two bluetooth kexts at kernel/add,  
+and reset nvram.  
+then OTA(install) it with apple's guide.  
+
+Bluetooth and wifi dont work,other things just fine.
+
+My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
+
+
+   
+</details> 
+
+
+
 **If you Star my repo (click star⭐️ at upper right of this page), I will so happy.**  
 
 I dont have this device,and other guys tested it for me,if you got any problem,feel free to leave me a issue here.

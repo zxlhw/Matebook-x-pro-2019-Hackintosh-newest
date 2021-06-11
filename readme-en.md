@@ -69,9 +69,19 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 
 ## Works fine：
+**click "Bluetooth" for more information**    
+
+<details>  
+<summary>1.Bluetooth</summary>   
   
-  
-1. Bluetooth  
+Thanks[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
+1. HUAWEI bluetooth mouse doesnt work.   
+2. Airpods works,but need pairing.    
+
+A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-oc-efi/issues/156  
+
+
+</details>   
 
 2. WIFI  
 

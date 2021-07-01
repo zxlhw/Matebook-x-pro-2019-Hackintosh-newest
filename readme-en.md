@@ -54,17 +54,23 @@ OpenCore's version is in 0.6.5,works with both Catalina and BigSur
 
 Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
 
-Just edit config.plist,to add "-lilubetaall" at boot-args and disable "airportitlwm" and that two bluetooth kexts at kernel/add,  
-and reset nvram.  
-then OTA(install) it with apple's guide.  
+need to do:  
+upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
+disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
+then,OTA or new-installing your OS with apple's guide.
 
-Bluetooth and wifi dont work,other things just fine.
+Every thing works like in BigSur,but need to replace some kext.
 
 My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
 
 
    
-</details> 
+</details>  
+
+
+
+**Supported BigSur and Monterey already**  
+
 
 
 
